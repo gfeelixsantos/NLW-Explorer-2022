@@ -3,7 +3,9 @@
 ### Participação do evento no ano de 2022
 
 <div align="center">
+
 ![preview.png](./css/Assets/preview.png)
+
 </div>
 
 :notebook: ## __Projeto construído no evento NLW eSports - Tilha Explorer, 2022.__
@@ -12,7 +14,9 @@
 Trabalhamos todo o layout baseado em Figma disponibilizado no evento e utilizamos diversas ferramentas, desde links externos na estrutura HTML até animações em CSS*.
 
 <div align="center">
+
 __Confira o resultado:__ [Acesse Aqui](./index.html)
+
 </div>
 
 ## Tecnologias Desenvolvidas
